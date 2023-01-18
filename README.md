@@ -5,7 +5,7 @@ I am writing bugs for a living.🐛
 Feel free to have a look around. Also, check out my [website](https://wotchin.github.io)!
 
 
-![Wotchin's github stats](https://github-readme-stats.vercel.app/api?username=wotchin&include_all_commits=true)
+![Wotchin's github stats](https://github-readme-stats.vercel.app/api?username=wotchin)
 
 <!--
 **wotchin/wotchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
